@@ -7,16 +7,16 @@ TerrainLayer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: layer_stone_tile_texturestone_tile_normal3d3aba195e4d26ee
-  m_DiffuseTexture: {fileID: 2800000, guid: b6ccb75e36dcf6b4396c44d0acb59672, type: 3}
-  m_NormalMapTexture: {fileID: 2800000, guid: 4f541b4b128216243b614668465d7a49, type: 3}
+  m_DiffuseTexture: {fileID: 2800000, guid: d4522e70773b221499cdb6532a56e15d, type: 3}
+  m_NormalMapTexture: {fileID: 0}
   m_MaskMapTexture: {fileID: 0}
-  m_TileSize: {x: 15, y: 15}
+  m_TileSize: {x: 10, y: 13}
   m_TileOffset: {x: 0, y: 0}
   m_Specular: {r: 0, g: 0, b: 0, a: 0}
   m_Metallic: 0
   m_Smoothness: 0
   m_NormalScale: 1
   m_DiffuseRemapMin: {x: 0, y: 0, z: 0, w: 0}
-  m_DiffuseRemapMax: {x: 1, y: 1, z: 1, w: 1}
+  m_DiffuseRemapMax: {x: 0.6289307, y: 0.58387667, z: 0.47268686, w: 1}
   m_MaskMapRemapMin: {x: 0, y: 0, z: 0, w: 0}
   m_MaskMapRemapMax: {x: 1, y: 1, z: 1, w: 1}
